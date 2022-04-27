@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<div id="top"></div>
 
-You can use the [editor on GitHub](https://github.com/sbuijs/JS-memory-game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 align="left">JS memory game</h1>
+  <p align="left">
+       Simple number guessing game, created with Vanilla Javascript.<br/>
+       <a href="https://sbuijs.github.io/JS-memory-game/">View Demo</a>
+  </p>
+</div>
+<br/>
+<br/>
 
-### Markdown
+<img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
+- Vanilla Javascript
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
 
-- Bulleted
-- List
+Stephanie Buijs - buijs.s@gmail.com<br/>
+Project Link: [https://github.com/sbuijs/JS-memory-game](https://github.com/sbuijs/JS-memory-gamee)<br/>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbuijs/JS-memory-game/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p align="left">(<a href="#top">back to top</a>)</p>

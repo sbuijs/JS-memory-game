@@ -19,7 +19,7 @@
 ## Contact
 
 Stephanie Buijs - buijs.s@gmail.com<br/>
-Project Link: [https://github.com/sbuijs/JS-memory-game](https://github.com/sbuijs/JS-memory-gamee)<br/>
+Project Link: [https://github.com/sbuijs/JS-memory-game](https://github.com/sbuijs/JS-memory-game)<br/>
 
 
 <p align="left">(<a href="#top">back to top</a>)</p>

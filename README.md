@@ -3,7 +3,7 @@
 
 <h1 align="left">JS memory game</h1>
   <p align="left">
-       Simple number guessing game, created with Vanilla Javascript.<br/>
+First version of the memory game. Made with Vanilla Javascript.<br/>
        <a href="https://sbuijs.github.io/JS-memory-game/">View Demo</a>
   </p>
 </div>
